@@ -1,4 +1,7 @@
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/yellow?style=flat&logo=javascript&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=javascript&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=javascript&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=javascript&logoColor=white"/></a>
 
 <!--
 **devkgm/devkgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
