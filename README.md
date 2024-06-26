@@ -61,3 +61,11 @@
     </div>
     <br>
 </div>
+
+## 🏅 자격증 🏅
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <div>
+        <span><strong>자격명: SQLD</strong></span><br>
+        <span><h6>취득일: 2024-06-21</h6></span>
+    </div>
+</div>
